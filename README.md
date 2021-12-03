@@ -2,7 +2,7 @@
 
 Hello Sir/Madam,
 
-we are going to build a World weather app using Angular. Our aim is to build app with two pages :
+We are going to build a World weather website using Angular. Our aim is to build app with two pages :
 1. Landing Page :
 Grid View :displaying all the countries in a grid having sorting, filtering and search functionality in grid.
 Card View : displaying the countries in card format with their flags shown.
