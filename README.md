@@ -1,4 +1,4 @@
-# galytixassessment
+# galytix assessment
 
 Hello Sir/Madam,
 
