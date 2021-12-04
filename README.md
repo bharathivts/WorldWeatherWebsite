@@ -1,6 +1,6 @@
 # Galytix Assessment
 
-Hello Sir/Madam,
+Hello Sir/Madam
 
 We are going to build a World weather website using Angular. Our aim is to build website with two pages :
 1. Landing Page :
